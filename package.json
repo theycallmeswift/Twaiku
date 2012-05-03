@@ -1,0 +1,18 @@
+{
+  "author": "Mike Swift <theycallmeswift@gmail.com> (http://theycallmeswift.com/)",
+  "name": "devfest",
+  "description": "Swift's awesome devfest hack.",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "mersenne": "0.0.3",
+    "twilio": "0.4.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
